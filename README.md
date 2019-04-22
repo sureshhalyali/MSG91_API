@@ -1,2 +1,2 @@
 # MSG91_API
-Send sms API COde
+Send sms API Code
